@@ -90,8 +90,8 @@ author:
   location         : "Mountain View"
   email            : "debi.me@gmail.com"
   uri              : 
-  home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        : "https://scholar.google.com/citations?user=EPfOJwQAAAAJ&hl=en&oi=ao"
+  home             : "https://scholar.google.com/citations?user=EPfOJwQAAAAJ&hl=en&oi=ao" # null (default), "absolute or relative url to link to author home"
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
