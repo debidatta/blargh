@@ -85,13 +85,13 @@ analytics:
 # Site Author
 author:
   name             : "Debidatta Dwibedi"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Mountain View"
   email            : "debi.me@gmail.com"
-  uri              :
+  uri              : 
   home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        :
+  bitbucket        : "https://scholar.google.com/citations?user=EPfOJwQAAAAJ&hl=en&oi=ao"
   codepen          :
   dribbble         :
   flickr           :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "debidatta"
   vine             :
   weibo            :
   xing             :
